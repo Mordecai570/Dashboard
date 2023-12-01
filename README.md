@@ -1,2 +1,2 @@
 # Dashboard
-A dashboard made in R as a final project of an undergraduate course 
+A dashboard made in R as a final group project of an undergraduate course 
