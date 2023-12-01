@@ -4,9 +4,6 @@
 library(tidyverse)
 library(caret)
 
-# dataset_path <- "../Data/cereal_ajustado.csv"
-# df <- read_csv(dataset_path)
-
 train_and_predict <- function(cereal_data) {
 
   # Remove columns "name" and "Nationality"
